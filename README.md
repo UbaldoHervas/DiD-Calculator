@@ -19,3 +19,6 @@ Revisa el contexto de tu aplicación antes de interpretar causalmente.
 
 Os recomiendo seguir la documentación de DoubleML: https://docs.doubleml.org/stable/index.html
 También seguir mi newsletter en la que hablo de análisis causal: https://leanalytics.substack.com/
+
+# Recursos
+En el repositorio tienes un csv para poder practicar pero puedes usar uno propio.
