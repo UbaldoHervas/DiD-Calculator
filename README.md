@@ -1,4 +1,4 @@
-# Advanced Diff-in-Diff-Calculator
+# Difference in difference Calculator
 DiD calculator with DoubleML library
 
 # Warnings:
